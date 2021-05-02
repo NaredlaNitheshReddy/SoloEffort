@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NitheshReddy"
+    }
+  },
+  "defaultProject": "NitheshReddy",
+  "cli": {
+    "analytics": false
+  }
 }
